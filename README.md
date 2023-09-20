@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfurkanilaslan&" alt="mfurkanilaslan" /></p>
 
-![snake gif](https://github.com/mfurkanilaslan/mfurkanilaslan/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/mfurkanilaslan/m.furkanilaslan/blob/output/github-contribution-grid-snake.gif)
