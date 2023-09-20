@@ -24,3 +24,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfurkanilaslan&show_icons=true&locale=en&layout=compact" alt="mfurkanilaslan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfurkanilaslan&" alt="mfurkanilaslan" /></p>
+
+![snake gif](https://github.com/mfurkanilaslan/mfurkanilaslan/blob/output/github-contribution-grid-snake.gif)
